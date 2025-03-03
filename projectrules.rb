@@ -1,4 +1,4 @@
-class ProjectRules < Formula
+class Projectrules < Formula
     desc "Generate .mdc files based on provided keywords"
     homepage "https://github.com/fumito-ito/ProjectRules"
 
