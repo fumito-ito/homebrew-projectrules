@@ -3,11 +3,11 @@ class Projectrules < Formula
     homepage "https://github.com/fumito-ito/ProjectRules"
 
     if OS.mac?
-        url "https://github.com/fumito-ito/ProjectRules/releases/download/0.0.6/projectrules-macos.tar.gz"
-        sha256 "6ebe9a1ae169503989046e333e64820a0b6be6c3d9c20b67ef66fb90b688439b"
+        url "https://github.com/fumito-ito/ProjectRules/releases/download/0.0.1/projectrules-macos.tar.gz"
+        sha256 "bb7b46206df5e1e96c235632ed5437521f3b4e9615283bf5934be3e984982fe3"
     else
-        url "https://github.com/fumito-ito/ProjectRules/releases/download/0.0.6/projectrules-ubuntu.tar.gz"
-        sha256 "65b5a7125d77523063772ddc752bf9572aaeea68fb818cb6eb72547b8611cf89"
+        url "https://github.com/fumito-ito/ProjectRules/releases/download/0.0.1/projectrules-ubuntu.tar.gz"
+        sha256 "48c0761f0344ce9db11c5e905796b765a305867e839dd3b440c67144f0b85938"
     end
     license "MIT"
   
